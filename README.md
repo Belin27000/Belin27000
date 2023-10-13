@@ -12,8 +12,7 @@
  
  🔭 I’m currently working on community website
   
-  🌱 I’m currently learning **React and Javascript**
-  importante
+  🌱 I’m learning **React and Javascript and plan to follow with Java and Angular very soon**
     
   💬 Ask me about Node.js, React, Firebase, MongoDB... or anything [here](contact@conseilsandtechs.com)
   
