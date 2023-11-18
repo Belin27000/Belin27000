@@ -40,8 +40,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,js,html,css,figma,firebase,git,github,jest,mongodb"/><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,postman,react,redux,regex,sass,ts,vite,vscode,discord,bootstrap"/><br/>
+    <img src="https://skillicons.dev/icons?i=react,angular,express,js,html,css,firebase,git,github,jest,mongodb"/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,postman,redux,regex,sass,ts,vite,vscode,discord,figma,bootstrap"/><br/>
   </a>
 </div>
 <br/>
