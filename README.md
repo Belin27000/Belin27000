@@ -5,17 +5,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yann!;" />
 </h1>
 
-<h3 align="center">A passionate developer from France 🇫🇷</h3>
+<h3 align="center">Passionate by IT from France 🇫🇷</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on community website
   
-  🌱 I’m learning **React and Javascript and plan to follow with Java and Angular very soon**
+  ✅ Bachelor in **Javascript and React**<br/>
+  ✅ Scrum Master PSM1<br/>
+  ✅ AWS Cloud Practitionner<br/>
+  ---<br/>
+  ⏳ Master in Data Science speciality IA - in Progress<br/>
+  ⏳ Blockchain Developper certification - in Progress
     
-  💬 Ask me about Node.js, React, Firebase, MongoDB... or anything [here](contact@conseilsandtechs.com)
+  💬 Ask me about all project you want to talk about [here](contact@conseilsandtechs.com)
   
   ⚡ Fun fact: Six 2x4 Lego bricks can be combined in 915,103,765 different ways
  
@@ -42,7 +45,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,express,nodejs,js,html,css,git"/><br/>
-    <img src="https://skillicons.dev/icons?i=py,postgres"/><br/>
+    <img src="https://skillicons.dev/icons?i=py,postgres,aws"/><br/>
   </a>
 </div>
 <br/>
