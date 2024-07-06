@@ -11,11 +11,11 @@
 
 <div align="center">
   
-  ✅ Bachelor in **Javascript and React**<br/>
+  ✅ Bachelor degree in **Javascript and React**<br/>
   ✅ Scrum Master PSM1<br/>
   ✅ AWS Cloud Practitionner<br/>
   ---<br/>
-  ⏳ Master in Data Science speciality IA - in Progress<br/>
+  ⏳ Master degree in Data Science speciality IA - in Progress<br/>
   ⏳ Blockchain Developper certification - in Progress
     
   💬 Ask me about all project you want to talk about [here](contact@conseilsandtechs.com)
@@ -44,8 +44,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,js,html,css,git"/><br/>
     <img src="https://skillicons.dev/icons?i=py,postgres,aws"/><br/>
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,js,html,css,git"/><br/>
   </a>
 </div>
 <br/>
