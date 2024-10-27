@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,aws"/><br/>
+    <img src="https://skillicons.dev/icons?i=py,postgres,aws,solidity"/><br/>
     <img src="https://skillicons.dev/icons?i=react,express,nodejs,js,html,css,git"/><br/>
   </a>
 </div>
