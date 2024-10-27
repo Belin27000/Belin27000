@@ -18,7 +18,7 @@
   ⏳ Master degree in Data Science speciality IA - in Progress<br/>
   ⏳ Blockchain Developper certification - in Progress
     
-  💬 Ask me about all project you want to talk about [here](conseilsandtech@gmail.com)
+  💬 Ask me about all project you want to talk about <a href="mailto:conseilsandtech@gmail.com">here</a>
   
   ⚡ Fun fact: Six 2x4 Lego bricks can be combined in 915,103,765 different ways
  
